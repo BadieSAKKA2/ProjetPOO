@@ -1,0 +1,17 @@
+sensors\Sensor.class
+machines\Machine.class
+POO\TilesFxMavenBuild\App.class
+sensors\WaterLevelSensor.class
+sensors\PressureSensor.class
+POO\TilesFxMavenBuild\SystemInfo.class
+sensorManagers\NoiseSensorManager.class
+sensors\GazEmissionSensor.class
+sensorManagers\TemperatureSensorManger.class
+sensorManagers\GazEmissionSensorManager.class
+sensors\TemperatureSensor.class
+sensors\NoiseSensor.class
+sensorManagers\ISensorManager.class
+machines\PompeAirComprime.class
+sensorManagers\SensorManager.class
+sensorManagers\WaterLevelSensorManager.class
+sensorManagers\PressureSensorManager.class
